@@ -1,0 +1,14 @@
+{
+  "name": "XLSX-Reader",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "create-react-class": "^15.6.3",
+    "react": "^16.8.6",
+    "react-blessed": "^0.5.0",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.8.35",
+    "ws": "^7.0.0"
+  }
+}
